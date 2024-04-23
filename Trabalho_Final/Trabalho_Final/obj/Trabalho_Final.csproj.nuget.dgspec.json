@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\luanc\\OneDrive\\Área de Trabalho\\UFU\\5° Período\\POO\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\luanc\\OneDrive\\Área de Trabalho\\UFU\\5° Período\\POO\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luanc\\OneDrive\\Área de Trabalho\\UFU\\5° Período\\POO\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
+        "projectName": "Trabalho_Final",
+        "projectPath": "C:\\Users\\luanc\\OneDrive\\Área de Trabalho\\UFU\\5° Período\\POO\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
+        "packagesPath": "C:\\Users\\luanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luanc\\OneDrive\\Área de Trabalho\\UFU\\5° Período\\POO\\Trabalho_Final\\Trabalho_Final\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

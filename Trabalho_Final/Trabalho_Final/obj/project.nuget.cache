@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGUKP9vNPa5AbHiEuctdpYk5gbO82iOsVnlr4lVHxqHUbk0TzymUdXUP0H4cuGNhPukS7ib4kB+wm3OsCy7PsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luanc\\OneDrive\\Área de Trabalho\\UFU\\5° Período\\POO\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanc\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\luanc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
